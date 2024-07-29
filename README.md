@@ -6,7 +6,7 @@ pip install pytz pyinstaller
 ```
 
 # Implementation Steps
-
+### 下載程式碼
 
 ```
 pyinstaller --onefile --console emailReceiver.py
