@@ -1,10 +1,7 @@
 # EmailReceiver
 一個能夠接收 google email 郵件的程式，並透過套件達到每日於固定時間發送郵件給使用者之功能。
 
-# Use Directly
-下載後
-
-# Build By Yourself
+# Implementation Steps
 
 
 # Reference
