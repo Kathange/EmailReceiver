@@ -8,6 +8,10 @@ pip install pytz pyinstaller
 # Implementation Steps
 
 
+```
+pyinstaller --onefile --console emailReceiver.py
+```
+
 # Reference
 chatGPT\
 [【中英字幕】使用 Python 从您的 Gmail 收件箱中提取电子邮件](https://www.bilibili.com/video/BV1M3411j7zN/) 2:40~3:10
