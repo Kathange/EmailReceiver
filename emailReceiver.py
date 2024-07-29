@@ -8,10 +8,10 @@ import pytz  # 需要安裝 pytz 模塊來處理時區
 
 # 設置 IMAP 伺服器和帳戶信息
 IMAP_SERVER = 'imap.gmail.com'
-EMAIL_ACCOUNT_1 = 'lycswb9566@gmail.com'
-EMAIL_PASSWORD_1 = 'wtgx itjm uzsy pbki'
-EMAIL_ACCOUNT_2 = '29191923kam@gmail.com'
-EMAIL_PASSWORD_2 = 'xmzq xwce gydq mfyk'
+EMAIL_ACCOUNT_1 = 'your_email1@gmail.com'
+EMAIL_PASSWORD_1 = 'your_email_password'
+EMAIL_ACCOUNT_2 = 'your_email2@gmail.com'
+EMAIL_PASSWORD_2 = 'your_email_password'
 
 def get_emails(EMAIL_ACCOUNT, EMAIL_PASSWORD):
     try:
