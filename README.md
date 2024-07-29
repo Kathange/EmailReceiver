@@ -1,6 +1,10 @@
 # EmailReceiver
 一個能夠接收 google email 郵件的程式，並透過套件達到每日於固定時間發送郵件給使用者之功能。
 
+```
+pip install pytz pyinstaller
+```
+
 # Implementation Steps
 
 
